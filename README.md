@@ -12,6 +12,12 @@
 
 # Ready features
 
+***[ANY] WinterFX | Snow on the ground:***
+- Instantly transforms any map into a winter scene by replacing ground surfaces with snow-covered textures.
+- Works automatically on every installed map — no manual editing or configuration needed.
+- Detects up-facing surfaces (floors, terrain, rooftops, etc.) and applies a custom snow texture for realistic coverage.
+<img src="snowfx.png" alt="SnowFX" width="300">
+
 ***[ZE] Map action Countdown HUD***:
 - Starts a real‑time countdown on screen whenever a map triggers a timed action.
 - Supports **multiple independent timers** — new timers appear **below the previous ones**, each running separately and updating in real time.
@@ -57,6 +63,12 @@
 ***Если у вас есть пожелания или идеи по новым функциям, можете смело обращаться ко мне. Связаться со мной можно через мой профиль Steam.***
 
 # Готовые функции
+
+***[ANY] WinterFX | Снег на поверхности земли***:
+- Мгновенно превращает любую карту в зимнюю сцену, заменяя поверхности земли на покрытые снегом текстуры.
+- Работает автоматически на всех установленных картах — без ручного редактирования или настройки.
+- Определяет поверхности, направленные вверх (полы, ландшафт, крыши и т.д.), и применяет к ним пользовательскую снежную текстуру для реалистичного покрытия.
+<img src="snowfx.png" alt="SnowFX" width="300">
 
 ***[ZE] Map action Countdown HUD***:
 - Запускает **реальный таймер обратного отсчёта** на экране каждый раз, когда карта активирует таймерное событие.
