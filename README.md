@@ -1,6 +1,7 @@
 # source-engine-css-enhancer
 # [EN]
-***Author***: **Madness (null138)** | [Steam Profile](http://steamcommunity.com/profiles/76561198098349799)
+***Author***: **Madness (null138)** | [Steam Profile](http://steamcommunity.com/profiles/76561198098349799)\
+**Planned release: by the end of this year (2025), around December 1.**
 
 [CS:S] Counter-Strike: Source Enhancer (CS:S Enhancer)
 
@@ -52,7 +53,8 @@
 <hr>
 
 # [RU/РУССКИЙ]
-***Автор***: **Madness (null138)** | [Профиль Steam](http://steamcommunity.com/profiles/76561198098349799)
+***Автор***: **Madness (null138)** | [Профиль Steam](http://steamcommunity.com/profiles/76561198098349799)\
+**Планируемый релиз: к концу этого года (2025), примерно 1 декабря.**
 
 [CS:S] Counter-Strike: Source Enhancer (CS:S Enhancer)
 
