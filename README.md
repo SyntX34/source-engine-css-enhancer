@@ -34,7 +34,8 @@
 <img src="player_overlay_demo.png" alt="Player Overlay" width="300">
 
 ***[ANY] Spray crash prevention***:
-- Detects and removes crashing sprays uploaded by other players, preventing those sprays from crashing your client. (Note: a new exploit was discovered by the project author that some servers cannot protect against — this feature protects the local client.)
+- Detects and removes crashing sprays uploaded by other players, preventing those sprays from crashing your client. (Note: a new exploit was discovered by the project author that servers cannot protect against — this feature protects the local client.)
+<img src="spraychecker.png" alt="SprayChecker" width="700">
 
 # Partially ready
 
@@ -89,6 +90,7 @@
 ***[ANY] Spray crash prevention***:
 - Обнаруживает и удаляет крашащие спреи, загруженные другими игроками, предотвращая вылет клиента.  
   (Примечание: автором проекта был обнаружен новый эксплойт, от которого серверы не могут защититься — эта функция защищает локального игрока.)
+<img src="spraychecker.png" alt="SprayChecker" width="700">
 
 # Частично готово
 
