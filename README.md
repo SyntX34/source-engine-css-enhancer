@@ -51,6 +51,16 @@
 
 **Publishes a verified blacklist feed (API or JSON) that local CS:S Enhancer instances can consume in real time.**
 
+***[ANY] Auto Mini-Radar***:
+
+- Automatically generates a mini-radar for every map (the one displayed in the top-left corner of the screen in-game).
+
+- Uses layered highlighting instead of the standard flat top-down 2D view.
+
+**Still in early development — radar quality and accuracy will continue to improve.**
+
+<img src="radar.png" alt="Radar" width="400">
+
 <hr>
 
 # [RU/РУССКИЙ]
@@ -105,3 +115,13 @@
 **В реальном времени обнаруживает фейковые / перенаправляющие серверы и загружает их в виде списка.**
 
 **Публикует проверенный чёрный список (в виде API или JSON), который локальные экземпляры CS:S Enhancer смогут использовать в реальном времени.**
+
+***[ANY] Auto Mini-Radar***:
+
+- Автоматически генерирует мини-радар для каждой карты (тот, что отображается в левом верхнем углу экрана в игре).
+
+- Использует послойную подсветку вместо стандартного плоского вида сверху.
+
+**Находится на ранней стадии разработки — качество и точность радаров будут улучшаться.**
+
+<img src="radar.png" alt="Radar" width="400">
