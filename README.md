@@ -10,6 +10,8 @@
 
 ***If you have any suggestions or ideas for new features, feel free to contact me. You can reach me via my Steam profile.***
 
+**Note: Currently, there is no Linux support. **
+
 **Installation:**
 - Download the core and extract the archive to any folder.
 - Set the game path exactly as it is (include the /cstrike folder) inside the css_enhancer_config.json config file next to the executable.
@@ -92,6 +94,8 @@
 **Он создан как полностью безопасный и VAC-дружественный. Он не внедряется в процесс игры, не записывает и не изменяет память игры, а также не модифицирует исполняемый файл игры. Он использует только функции, доступные обычным игрокам, и работает, читая и изменяя текстовые файлы, которые игра уже создаёт или использует (например, логи и конфиги).**
 
 ***Если у вас есть пожелания или идеи по новым функциям, можете смело обращаться ко мне. Связаться со мной можно через мой профиль Steam.***
+
+**Примечание: В настоящий момент поддержка Linux отсутствует.**
 
 **Установка:**
 - Скачайте ядро и распакуйте архив в любую папку.
