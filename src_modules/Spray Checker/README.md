@@ -8,6 +8,9 @@
 - Run the core executable and wait for it to finish checking every spray file.
 - Once it finishes, the module will monitor new files and process them immediately.
 
+**Credits:**
+- [@Silvers](https://github.com/SilvDev) – for letting me use the old, known headers.
+
 # [RU]
 ***[ANY] Spray crash prevention***:
 - Обнаруживает и удаляет краш-спреи, загруженные другими игроками, предотвращая краш вашего клиента. (Примечание: автор проекта обнаружил новый эксплойт, против которого серверы не могут защитить — эта функция защищает только локальный клиент.)
@@ -17,3 +20,6 @@
 - Поместите модуль в папку modules.
 - Запустите основной исполняемый файл и дождитесь завершения проверки всех файлов спреев.
 - После завершения модуль будет отслеживать новые файлы и обрабатывать их немедленно.
+
+**Благодарности:**
+- [@Silvers](https://github.com/SilvDev) – за разрешение использовать старые, известные заголовки.
