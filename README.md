@@ -28,9 +28,9 @@
 
 ***[ANY] Player info overlay***:
 - Displays players names and health on screen and ranks players from lowest → highest health for both teams in real time. Works even while you are alive — purely a gameplay feature exposed by the game.
-- Fully **customizable screen position** — move the overlay anywhere on your screen.
-- Adjustable **player count per team** — show as many (or few) top players as you want.
-- You can **enable or disable each team separately**, for example, show only Counter-Terrorists or only Terrorists.
+
+[Full information and guide](https://github.com/null138/source-engine-css-enhancer/tree/main/src_modules/Players%20List%20HUD)
+
 <img src="player_overlay_demo.png" alt="Player Overlay" width="300">
 
 ***[ANY] Spray crash prevention***:
@@ -92,9 +92,9 @@
 
 ***[ANY] Player info overlay***:
 - Отображает **имена игроков** и их **здоровье** на экране, сортируя их от самого низкого к самому высокому здоровью для обеих команд в реальном времени. Работает даже когда вы живы — это чисто внутриигровая функция, оставленная разработчиками.
-- Полностью **настраиваемое положение на экране** — перемещайте оверлей в любое место.
-- Регулируемое **количество игроков на команду** — показывайте столько топ-игроков, сколько хотите.
-- Можно **включить или отключить любую из команд**, например, отображать только контр-террористов или только террористов.
+
+[Полная информация и руководство](https://github.com/null138/source-engine-css-enhancer/tree/main/src_modules/Players%20List%20HUD#ru)
+
 <img src="player_overlay_demo.png" alt="Player Overlay" width="300">
 
 ***[ANY] Spray crash prevention***:
