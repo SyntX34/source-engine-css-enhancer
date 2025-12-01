@@ -3,7 +3,7 @@
 - Instantly transforms any map into a winter scene by replacing ground surfaces with snow-covered textures.
 - Works automatically on every installed map.
 - Detects up-facing surfaces (floors, terrain, rooftops, etc.) and applies a custom snow texture for realistic coverage.
-<img src="snowfx.png" alt="SnowFX" width="300">
+<img src="../../snowfx.png" alt="SnowFX" width="300">
 
 **Installation:**
 - Place the module inside the modules folder.
@@ -22,7 +22,7 @@
 - Мгновенно превращает любую карту в зимнюю сцену, заменяя поверхности земли текстурами, покрытыми снегом.
 - Работает автоматически на каждой установленной карте.
 - Определяет поверхности, направленные вверх (полы, грунт, крыши и т. д.), и применяет пользовательскую снеговую текстуру для реалистичного покрытия.
-<img src="snowfx.png" alt="SnowFX" width="300">
+<img src="../../snowfx.png" alt="SnowFX" width="300">
 
 Установка:
 - Поместите модуль в папку modules.
