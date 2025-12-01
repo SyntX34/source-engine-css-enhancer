@@ -21,6 +21,11 @@
 - After editing the config, delete the maps.txt file inside modules/WinterFX and run the core executable again so it can regenerate textures using the new settings.
 - Deleting maps.txt is required after any configuration change.
 
+**Credits:**
+- [@Feykich](https://github.com/Feykich) – providing maps, testing, and advice
+- [@Moltard](https://github.com/Moltard) – advice on texture face recognition
+- @ficool2 – suggesting an optimal route by calculating texture face points
+
 # [RU]
 ***[ANY] WinterFX | Snow on the ground:***
 
@@ -44,3 +49,8 @@
 - Если вы хотите изменить это, откройте modules/configs/winterfx_config.json и добавьте полное название карты или префикс режима (например, "mg_").
 - После изменения конфигурации удалите файл maps.txt в modules/WinterFX и снова запустите основной исполняемый файл, чтобы текстуры были сгенерированы заново с учётом новых настроек.
 - Удаление maps.txt является обязательным после любых изменений конфигурации.
+
+**Благодарности:**
+- [@Feykich](https://github.com/Feykich) – предоставление карт, тестирование и советы
+- [@Moltard](https://github.com/Moltard) – советы по распознаванию сторон текстур
+- @ficool2 – предложение оптимального решения с расчётом точек сторон текстур
