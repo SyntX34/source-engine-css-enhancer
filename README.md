@@ -1,7 +1,6 @@
 # source-engine-css-enhancer
 # [EN]
 ***Author***: **Madness (null138)** | [Steam Profile](http://steamcommunity.com/profiles/76561198098349799)\
-**Planned release: by the end of this year (2025), around December 1.**
 
 [CS:S] Counter-Strike: Source Enhancer (CS:S Enhancer)
 
@@ -15,15 +14,16 @@
 
 ***[ANY] WinterFX | Snow on the ground:***
 - Instantly transforms any map into a winter scene by replacing ground surfaces with snow-covered textures.
-- Works automatically on every installed map — no manual editing or configuration needed.
-- Detects up-facing surfaces (floors, terrain, rooftops, etc.) and applies a custom snow texture for realistic coverage.
+
+[Full information and guide](https://github.com/null138/source-engine-css-enhancer/tree/main/src_modules/WinterFX#readme)
+
 <img src="snowfx.png" alt="SnowFX" width="300">
 
 ***[ZE] Map action Countdown HUD***:
 - Starts a real‑time countdown on screen whenever a map triggers a timed action.
-- Supports **multiple independent timers** — new timers appear **below the previous ones**, each running separately and updating in real time.
-- Fully **customizable screen position** — choose where the countdown appears on your display.
-- Adjustable **text color** and style for better visibility and personalization.
+
+[Full information and guide](https://github.com/null138/source-engine-css-enhancer/tree/main/src_modules/Countdown%20HUD#en)
+
 <img src="countdown_demo.gif" alt="Countdown HUD" width="300">
 
 ***[ANY] Player info overlay***:
@@ -79,15 +79,16 @@
 
 ***[ANY] WinterFX | Снег на поверхности земли***:
 - Мгновенно превращает любую карту в зимнюю сцену, заменяя поверхности земли на покрытые снегом текстуры.
-- Работает автоматически на всех установленных картах — без ручного редактирования или настройки.
-- Определяет поверхности, направленные вверх (полы, ландшафт, крыши и т.д.), и применяет к ним пользовательскую снежную текстуру для реалистичного покрытия.
+
+[Полная информация и руководство](https://github.com/null138/source-engine-css-enhancer/tree/main/src_modules/WinterFX#ru)
+
 <img src="snowfx.png" alt="SnowFX" width="300">
 
 ***[ZE] Map action Countdown HUD***:
 - Запускает **реальный таймер обратного отсчёта** на экране каждый раз, когда карта активирует таймерное событие.
-- Поддерживает **несколько независимых таймеров** — новые таймеры появляются **под предыдущими**, каждый работает отдельно и обновляется в реальном времени.
-- Полностью **настраиваемое положение на экране** — выберите, где именно будет отображаться таймер.
-- Настраиваемый **цвет и стиль текста** для лучшей видимости и персонализации.
+
+[Полная информация и руководство](https://github.com/null138/source-engine-css-enhancer/tree/main/src_modules/Countdown%20HUD#ru)
+
 <img src="countdown_demo.gif" alt="Countdown HUD" width="300">
 
 ***[ANY] Player info overlay***:
