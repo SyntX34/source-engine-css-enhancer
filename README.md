@@ -35,6 +35,9 @@
 
 ***[ANY] Spray crash prevention***:
 - Detects and removes crashing sprays uploaded by other players, preventing those sprays from crashing your client. (Note: a new exploit was discovered by the project author that servers cannot protect against — this feature protects the local client.)
+
+[Full information and guide](https://github.com/null138/source-engine-css-enhancer/blob/main/src_modules/Spray%20Checker/README.md#en)
+
 <img src="spraychecker.png" alt="SprayChecker" width="700">
 
 # Partially ready
@@ -100,6 +103,9 @@
 ***[ANY] Spray crash prevention***:
 - Обнаруживает и удаляет крашащие спреи, загруженные другими игроками, предотвращая вылет клиента.  
   (Примечание: автором проекта был обнаружен новый эксплойт, от которого серверы не могут защититься — эта функция защищает локального игрока.)
+
+[Полная информация и руководство](https://github.com/null138/source-engine-css-enhancer/blob/main/src_modules/Spray%20Checker/README.md#ru)
+  
 <img src="spraychecker.png" alt="SprayChecker" width="700">
 
 # Частично готово
