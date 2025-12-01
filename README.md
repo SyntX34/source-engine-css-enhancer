@@ -10,7 +10,7 @@
 
 ***If you have any suggestions or ideas for new features, feel free to contact me. You can reach me via my Steam profile.***
 
-**Note: Currently, there is no Linux support. **
+**Note: Currently, there is no Linux support.**
 
 **Installation:**
 - Download the core and extract the archive to any folder.
