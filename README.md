@@ -14,7 +14,6 @@
 - Download the core and extract the archive to any folder.
 - Set the game path exactly as it is (include the /cstrike folder) inside the css_enhancer_config.json config file next to the executable.
 - On the first launch, wait for all modules to finish loading before launching the game.
-- After any changes to module configs, you must close and restart the core executable to load the new settings.
 - Keep the executable console open while playing, and close it only when you are done.
 - It is recommended to launch the executable before starting the game.
 - If for some reason the modules do not work, it may be because the autoexec is not applied by the game automatically. In that case, consider adding +exec autoexec.cfg to the game's launch parameters.
@@ -98,7 +97,6 @@
 - Скачайте ядро и распакуйте архив в любую папку.
 - Укажите путь к игре точно так, как он есть (включая папку /cstrike) в конфигурационном файле css_enhancer_config.json рядом с исполняемым файлом.
 - При первом запуске дождитесь завершения загрузки всех модулей перед запуском игры.
-- После любых изменений в конфигурациях модулей необходимо закрыть и заново запустить основной исполняемый файл, чтобы применились новые настройки.
 - Держите консоль исполняемого файла открытой во время игры и закрывайте её только после завершения игры.
 - Рекомендуется запускать исполняемый файл перед запуском игры.
 - Если по какой-то причине модули не работают, возможно, игра автоматически не применяет autoexec. В этом случае добавьте +exec autoexec.cfg в параметры запуска игры.
