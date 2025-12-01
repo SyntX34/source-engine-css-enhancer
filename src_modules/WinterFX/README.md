@@ -5,6 +5,11 @@
 - Detects up-facing surfaces (floors, terrain, rooftops, etc.) and applies a custom snow texture for realistic coverage.
 <img src="../../snowfx.png" alt="SnowFX" width="300">
 
+**Warning:**
+- You can add "all" to the config to generate snow textures for every map.
+- This may cause some walls or other non-ground surfaces to also be covered in snow, because some maps use the same texture for both floors and walls.
+- The more maps you include, the higher the chance that snow will be applied incorrectly in certain places.
+
 **Installation:**
 - Place the module inside the modules folder.
 - Create a folder named WinterFX inside modules, and put the snowfloor.vtf texture file inside it.
@@ -24,7 +29,12 @@
 - Определяет поверхности, направленные вверх (полы, грунт, крыши и т. д.), и применяет пользовательскую снеговую текстуру для реалистичного покрытия.
 <img src="../../snowfx.png" alt="SnowFX" width="300">
 
-Установка:
+**Внимание:**
+- Вы можете добавить "all" в конфигурацию, чтобы сгенерировать снеговые текстуры для всех карт.
+- Это может привести к тому, что некоторые стены или другие поверхности, не являющиеся полом, также будут покрыты снегом, так как на некоторых картах одна и та же текстура используется и для пола, и для стен.
+- Чем больше карт включено, тем выше вероятность того, что снег будет применён некорректно в некоторых местах.
+
+**Установка:**
 - Поместите модуль в папку modules.
 - Создайте внутри modules папку WinterFX и положите в неё файл текстуры snowfloor.vtf.
 - Запустите основной исполняемый файл и дождитесь, пока он сгенерирует снеговые текстуры для всех установленных карт.
