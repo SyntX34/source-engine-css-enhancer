@@ -10,6 +10,23 @@
 
 ***If you have any suggestions or ideas for new features, feel free to contact me. You can reach me via my Steam profile.***
 
+**Installation:**
+- Download the core and extract the archive to any folder.
+- Set the game path exactly as it is (include the /cstrike folder) inside the css_enhancer_config.json config file next to the executable.
+- On the first launch, wait for all modules to finish loading before launching the game.
+- After any changes to module configs, you must close and restart the core executable to load the new settings.
+- Keep the executable console open while playing, and close it only when you are done.
+- It is recommended to launch the executable before starting the game.
+- If for some reason the modules do not work, it may be because the autoexec is not applied by the game automatically. In that case, consider adding +exec autoexec.cfg to the game's launch parameters.
+
+**Modules installation:**
+- Download the compiled module from the repository, or compile it from the source code.
+- Place the module and its files in the modules/ folder next to the executable.
+- If the core executable is running, close it and launch it again.
+- Some modules might not include config files. In that case, they will be generated after the first launch.
+- After any changes to the modules or their configs, you need to close and relaunch the executable to apply the changes.
+
+
 # Ready features
 
 ***[ANY] WinterFX | Snow on the ground:***
@@ -76,6 +93,23 @@
 **Он создан как полностью безопасный и VAC-дружественный. Он не внедряется в процесс игры, не записывает и не изменяет память игры, а также не модифицирует исполняемый файл игры. Он использует только функции, доступные обычным игрокам, и работает, читая и изменяя текстовые файлы, которые игра уже создаёт или использует (например, логи и конфиги).**
 
 ***Если у вас есть пожелания или идеи по новым функциям, можете смело обращаться ко мне. Связаться со мной можно через мой профиль Steam.***
+
+**Установка:**
+- Скачайте ядро и распакуйте архив в любую папку.
+- Укажите путь к игре точно так, как он есть (включая папку /cstrike) в конфигурационном файле css_enhancer_config.json рядом с исполняемым файлом.
+- При первом запуске дождитесь завершения загрузки всех модулей перед запуском игры.
+- После любых изменений в конфигурациях модулей необходимо закрыть и заново запустить основной исполняемый файл, чтобы применились новые настройки.
+- Держите консоль исполняемого файла открытой во время игры и закрывайте её только после завершения игры.
+- Рекомендуется запускать исполняемый файл перед запуском игры.
+- Если по какой-то причине модули не работают, возможно, игра автоматически не применяет autoexec. В этом случае добавьте +exec autoexec.cfg в параметры запуска игры.
+
+**Установка модулей:**
+- Скачайте скомпилированный модуль из репозитория или скомпилируйте его из исходного кода.
+- Поместите модуль и его файлы в папку modules/ рядом с исполняемым файлом.
+- Если основной исполняемый файл запущен, закройте его и запустите снова.
+- Некоторые модули могут не содержать конфигурационных файлов. В этом случае они будут сгенерированы после первого запуска.
+- После любых изменений в модулях или их конфигурациях необходимо закрыть и снова запустить исполняемый файл, чтобы применить изменения.
+
 
 # Готовые функции
 
