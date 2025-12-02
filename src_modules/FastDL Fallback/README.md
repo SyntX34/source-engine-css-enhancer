@@ -2,7 +2,7 @@
 ***[ANY] FastDL Fallback***:
 - If you encounter **"Missing map maps/map.bsp, disconnecting"**, the module will attempt to download the required map from available FastDL services.
 - If you encounter **"Your map maps/map.bsp differs from the server's"**, the module will delete that map and attempt to download the correct version from available FastDL services.
-<img src="../../FastDL_Fallback.png" alt="FastDL_Fallback" width="500">
+<img src="../../FastDL_Fallback.png" alt="FastDL_Fallback" width="700">
 
 # Installation:
 - Place the module inside the "modules" folder.
@@ -23,7 +23,7 @@
 ***[ANY] FastDL Fallback***:
 - Если появляется сообщение **"Missing map maps/map.bsp, disconnecting"**, модуль попытается скачать нужную карту с доступных сервисов FastDL.
 - Если появляется сообщение **"Your map maps/map.bsp differs from the server's"**, модуль удалит эту карту и попытается скачать корректную версию с доступных сервисов FastDL.
-<img src="../../FastDL_Fallback.png" alt="FastDL_Fallback" width="500">
+<img src="../../FastDL_Fallback.png" alt="FastDL_Fallback" width="700">
 
 # Установка:
 - Поместите модуль в папку "modules".
