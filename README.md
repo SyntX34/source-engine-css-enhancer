@@ -56,6 +56,8 @@
 
 [Full information and guide](https://github.com/null138/source-engine-css-enhancer/blob/main/src_modules/Spray%20Checker/README.md#en)
 
+<img src="spraychecker.png" alt="SprayChecker" width="600">
+
 ***[ANY] FastDL Fallback***:
 - If you encounter **"Missing map maps/map.bsp, disconnecting"**, the module will attempt to download the required map from available FastDL services.
 - If you encounter **"Your map maps/map.bsp differs from the server's"**, the module will delete that map and attempt to download the correct version from available FastDL services.
@@ -156,7 +158,7 @@
 
 [Полная информация и руководство](https://github.com/null138/source-engine-css-enhancer/tree/main/src_modules/FastDL%20Fallback#ru)
   
-<img src="FastDL_Fallback.png" alt="FastDL_Fallback" width="700">
+<img src="FastDL_Fallback.png" alt="FastDL_Fallback" width="600">
 
 # Частично готово
 
