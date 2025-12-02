@@ -62,7 +62,7 @@
 
 [Full information and guide](https://github.com/null138/source-engine-css-enhancer/tree/main/src_modules/FastDL%20Fallback#en)
 
-<img src="../../FastDL_Fallback.png" alt="FastDL_Fallback" width="700">
+<img src="FastDL_Fallback.png" alt="FastDL_Fallback" width="700">
 
 # Partially ready
 
@@ -156,7 +156,7 @@
 
 [Полная информация и руководство](https://github.com/null138/source-engine-css-enhancer/tree/main/src_modules/FastDL%20Fallback#ru)
   
-<img src="../../FastDL_Fallback.png" alt="FastDL_Fallback" width="700">
+<img src="FastDL_Fallback.png" alt="FastDL_Fallback" width="700">
 
 # Частично готово
 
