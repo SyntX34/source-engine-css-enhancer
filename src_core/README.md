@@ -17,7 +17,7 @@ pyinstaller --noconsole --onefile css_enhancer.py ^
 --add-data "site-packages\psutil;psutil" ^
 --add-data "site-packages\pydirectinput;pydirectinput" ^
 --add-data "lang;lang" ^
---noupx --icon=icon.ico --add-data "csench.ico;."
+--noupx --icon=csench.ico --add-data "csench.ico;."
 ```
 
 **Keep the icon file next to the .py to compile** 
