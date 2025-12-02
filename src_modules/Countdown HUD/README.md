@@ -10,6 +10,7 @@
 **Installation:**
 - Place the module inside the modules folder.
 - Run the core executable and launch the game.
+- To disable "rainbow" mode and use a single color instead, set the color mode to "single".
 
 # [RU]
 
@@ -23,3 +24,4 @@
 **Установка:**
 - Поместите модуль в папку modules.
 - Запустите основной исполняемый файл и запустите игру.
+- Чтобы отключить радужный режим (rainbow) и использовать один цвет, установите режим цвета в значение "single"
