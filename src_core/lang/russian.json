@@ -1,0 +1,19 @@
+{
+    "missing_log": "Не найден корректный путь к файлу логов в css_enhancer_config.json.\n\nПожалуйста, укажите его и перезапустите программу.",
+    "log_not_found": "Файл логов 'console.log' не найден.\n\nОн был создан автоматически.",
+    "no_modules": "В папке 'modules' не найдено модулей.\n\nПоместите ваши .pyd модули внутрь и перезапустите программу.",
+    "failed_module_load": "Не удалось загрузить модуль: {name}\nОшибка: {error}",
+    "core_warning_title": "Предупреждение ядра",
+    "module_load_error_title": "Ошибка загрузки модуля",
+    "module_loaded": "Модуль загружен: {name}",
+    "module_missing_on_new_log": "У модуля {name} нет функции 'on_new_log', вызов пропущен.",
+    "module_runtime_error": "Ошибка в модуле {name}: {error}",
+    "no_on_new_log_modules": "Модули с функцией 'on_new_log' не найдены, слежение за логом пропущено.",
+    "update_title": "Обновление CSS Enhancer",
+    "update_available": "Доступна новая версия!",
+    "update_current": "Текущая",
+    "update_latest": "Последняя",
+    "update_get": "Скачать здесь",
+    "update_http_fail": "Не удалось проверить последнюю версию. HTTP {code}",
+    "update_exception": "Ошибка проверки версии: {error}"
+}

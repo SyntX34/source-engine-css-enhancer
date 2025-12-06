@@ -1,0 +1,19 @@
+{
+    "missing_log": "No valid log file path found in css_enhancer_config.json.\n\nPlease set it and restart.",
+    "log_not_found": "The log file 'console.log' was not found.\n\nIt has been created automatically.",
+    "no_modules": "No modules found in the 'modules' folder.\n\nPlace your .pyd modules inside and restart.",
+    "failed_module_load": "Failed to load module: {name}\nError: {error}",
+    "core_warning_title": "Core Warning",
+    "module_load_error_title": "Module Load Error",
+    "module_loaded": "Loaded module: {name}",
+    "module_missing_on_new_log": "Module {name} does not have 'on_new_log' function, skipping call.",
+    "module_runtime_error": "Module error in {name}: {error}",
+    "no_on_new_log_modules": "No modules with 'on_new_log' found, skipping log watcher.",
+    "update_title": "CSS Enhancer Update",
+    "update_available": "A new version is available!",
+    "update_current": "Current",
+    "update_latest": "Latest",
+    "update_get": "Get it here",
+    "update_http_fail": "Could not check latest version. HTTP {code}",
+    "update_exception": "Version check failed: {error}"
+}
